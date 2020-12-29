@@ -9,4 +9,6 @@
 
 
 
-![tv-film-movie-app-1](https://user-images.githubusercontent.com/18700494/103241733-ca03d600-495c-11eb-8693-af4c911ba2bd.jpg)
+![Screenshot_1609204381](https://user-images.githubusercontent.com/18700494/103252246-a3f22c00-4984-11eb-82b2-572a160a0f98.png)
+![Screenshot_1609204412](https://user-images.githubusercontent.com/18700494/103252298-e3b91380-4984-11eb-9a83-17fbc6930912.png)
+![Screenshot_1609204039](https://user-images.githubusercontent.com/18700494/103252304-e9165e00-4984-11eb-9ebe-f65cbe3138b8.png)
